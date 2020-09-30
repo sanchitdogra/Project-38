@@ -3,7 +3,7 @@ var banana, bananaImage, bananaGroup;
 var obstacle, obstacleImage, obstacleGroup;
 var backGround, backgroundImage;
 var invisibleGround;
-var score = 50;
+var score = 0;
 var gamestate = 0;
 
 function preload() {
